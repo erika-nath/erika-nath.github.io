@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erika-nath/erika-nath.github.io.git"
+  },
+  "author": "Erika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erika-nath/erika-nath.github.io/issues"
+  },
+  "homepage": "https://github.com/erika-nath/erika-nath.github.io#readme",
+  "dependencies": {
+    "eslint": "^7.1.0",
+    "jquery": "^3.5.1",
+    "serve": "^11.3.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
